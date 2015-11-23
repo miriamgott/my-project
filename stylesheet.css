@@ -5,8 +5,9 @@ h1 {
 
 ul li { 
         display: inline;
-        padding-left: 25px;
-        padding-right: 25px;
+        text-align: center;
+        padding-left: 35px;
+        padding-right: 35px;
         color: blue;
     }
 
